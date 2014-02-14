@@ -71,7 +71,3 @@ try {
 } catch (error) {
 	console.log('learn.wu.ac.at: Style sanitizer failed: ', error);
 }
-
-// TODO: Add body rule to enable particular web font OR remove all body rules
-//       regarding setting the font family and size. Lets go with the easier
-//       one.
