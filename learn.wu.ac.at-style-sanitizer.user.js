@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name      	learn.wu.ac.at Style Sanitizer
+// @name        learn.wu.ac.at Style Sanitizer
 // @description A couple of scripts to invalidate some style rules that makes reading/using the page harder. (Especially for people with typographical needs.)
 // @author      Alexander Pánek <a.panek@brainsware.org>
-// @match				http://learn.wu.ac.at/*
-// @match				https://learn.wu.ac.at/*
-// @version			0.1.25
+// @match       http://learn.wu.ac.at/*
+// @match       https://learn.wu.ac.at/*
+// @version     0.1.25
 // ==/UserScript==
 
 console.log('Started style sanitizer for learn.wu.ac.at');
